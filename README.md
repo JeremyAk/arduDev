@@ -1,2 +1,2 @@
 # arduDev
-Development for Arduino board
+Development for Arduino board ATMEGA256.
